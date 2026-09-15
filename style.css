@@ -3,7 +3,7 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, #FF69B4, #FF6347, #FFFF00);
+  background: linear-gradient(120deg, #FFFFE0, #FFDAB9, #FFC0CB);
 }
 a {
   color: black;
@@ -12,11 +12,11 @@ a {
 
 a:visited {
   
-  color: white;
+  color: rgb(68, 47, 47);
       }
       
 a:hover {
-  color: red;
+  color: rgb(128, 83, 128);
       }
 ul {
   list-style: none;
@@ -98,7 +98,7 @@ header{
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: greenyellow;
+  background-color: rgb(97, 76, 105);
 }
 .flat-page .content .container {
   display: flex;
@@ -124,14 +124,14 @@ header{
   }
 }
 .flat-page .content .info h1 {
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 38px;
 }
 .flat-page .content .info p {
   margin: 0;
   line-height: 1.6;
   font-size: 15px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .flat-page .content .info button {
   border: 0;
@@ -140,7 +140,7 @@ header{
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: blue;
+  background-color: rgb(64, 42, 75);
 }
 .flat-page .content .image img {
   max-width: 120%;
